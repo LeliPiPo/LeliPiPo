@@ -1,4 +1,4 @@
-Third-year Software Engineering student with an interest in how technology is used in finance, especially data analytics, and I’m still exploring which area fits me best. 
+Third-year Software Engineering student with an interest in how technology is used in finance, especially data analytics, and am still exploring which area fits me best. 
 
 ## What I'm working on
 
