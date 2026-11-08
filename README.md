@@ -2,8 +2,7 @@ Third-year Software Engineering student with an interest in how technology is us
 
 ## What I'm working on
 
-- **[Finished Project Name]**: [One line on what it does and why it's useful.] Built with [tech].
-- **[In-progress Project Name]** *(in progress)*: [One line on the goal.]
+
 
 ## Skills
 
