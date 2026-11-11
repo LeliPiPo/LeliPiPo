@@ -1,15 +1,12 @@
 Third-year Software Engineering student with an interest in how technology is used in finance, especially data analytics, and am still exploring which area fits me best. 
 
-## What I'm working on
-
-
 
 ## Skills
 
 **Languages:** Python, C++, SQL
 **Also used:** JavaScript, Java
 **Tools & Platforms:** GitHub, VS Code, Excel
-**Currently learning:** AWS fundamentals, Power BI, Docker
+**Currently learning:** AWS fundamentals, Power BI
 
 ## Reading notes
 
